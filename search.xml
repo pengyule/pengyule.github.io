@@ -18,4 +18,19 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>My Very First Post</title>
+    <url>/2020/06/26/my%20very%20first%20post/</url>
+    <content><![CDATA[<p>$Hi$</p>
+<blockquote>
+<p>hi</p>
+</blockquote>
+<p>$$<br>HI<br>$$</p>
+<pre><code class="cpp">using
+</code></pre>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
